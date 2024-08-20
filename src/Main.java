@@ -7,6 +7,6 @@ public class Main {
         quadro.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         quadro.pack();
         quadro.setVisible(true);
-        //
+
     }
 }
